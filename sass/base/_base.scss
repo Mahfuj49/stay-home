@@ -1,0 +1,15 @@
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    //definition of 1rem
+    font-size: 62.5%;
+}
+
+body {
+    padding: 2rem;
+}
